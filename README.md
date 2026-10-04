@@ -2,7 +2,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 =============================================================================================================================================
 
 Junior Software Developer #13 (Generation Thailand) | <br>
-Data Science Bootcamp #12 (DataRockie)
+Data Science Bootcamp #12 (DataRockie) | <br>
+Databricks For Data Engineer Bootcamp #2 (DataSpark TH)
 -------------------------------------------------------------------------------------------
 
 A versatile professional with a unique blend of Business Administration (BBA), over 7 years of hands-on Customer Experience, and technical expertise gained from Junior Software Developer #13 at Generation Thailand and Data Science Bootcamp #12 at DataRockie.
