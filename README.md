@@ -1,7 +1,8 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Tipkanya Sutthiruksa
 =============================================================================================================================================
 
-Junior Software Developer #13 (Generation Thailand) | Data Science Bootcamp#12 (DataRockie)
+Junior Software Developer #13 (Generation Thailand) | 
+Data Science Bootcamp#12 (DataRockie)
 -------------------------------------------------------------------------------------------
 
 A versatile professional with a unique blend of Business Administration (BBA), over 7 years of hands-on Customer Experience, and technical expertise gained from Junior Software Developer #13 at Generation Thailand and Data Science Bootcamp #12 at DataRockie.
