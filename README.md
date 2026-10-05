@@ -6,9 +6,11 @@ Data Science Bootcamp #12 (DataRockie) | <br>
 Databricks For Data Engineer Bootcamp #2 (DataSpark TH)
 -------------------------------------------------------------------------------------------
 
-A versatile professional with a unique blend of Business Administration (BBA), over 7 years of hands-on Customer Experience, and technical expertise gained from Junior Software Developer #13 at Generation Thailand and Data Science Bootcamp #12 at DataRockie.
+A versatile professional with a unique blend of Business Administration (BBA), over 7 years of hands-on Customer Experience, and solid technical foundations from Junior Software Developer #13 (Generation Thailand) and Data Science Bootcamp #12 (DataRockie).
 
-Highly adaptable with a strong user-centric mindset, effective communication, and data-driven problem-solving skills. Adept at connecting business insights with modern web stack development and data analysis to drive impactful solutions across technology, data, and business roles.
+Continuously expanding capabilities, currently enrolled in the Databricks for Data Engineer Bootcamp #2 (DataSpark TH).
+
+Highly adaptable with a strong user-centric mindset, effective communication, and data-driven problem-solving skills. Adept at connecting business insights with software development, data engineering, and data analysis to drive impactful solutions across technology, data, and business roles.
 
 * 🌍  I'm based in Pathum Thani, Thailand
 * 🖥️  See my portfolio at [Tipkanya S.](http://my-portfolio-one-coral-47.vercel.app/)
